@@ -1,0 +1,29 @@
+CustomerID: CI0001
+ProductID: PI63618832
+Review Date: 2024-01-01
+Review Rating: 3
+Review Text: janwknckwcjwj
+
+CustomerID: CI0004
+ProductID: PI26872238
+Review Date: 2024-05-05
+Review Rating: 5
+wfiwhfichewuchoewq
+
+CustomerID: CI0002
+ProductID: PI82328982
+Review Date: 2024-03-03
+Review Rating: 1
+wfiwhifhew
+
+CustomerID: CI0007
+ProductID: PI82328982
+Review Date: 2024-10-02
+Review Rating: 3
+hjowjocwjs
+
+CustomerID: CI0009
+ProductID: PI63618832
+Review Date: 2024-12-26
+Review Rating: 4
+iheiuwfowjfoeiw

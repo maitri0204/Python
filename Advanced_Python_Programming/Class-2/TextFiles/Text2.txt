@@ -1,0 +1,29 @@
+CustomerID: CI0017
+ProductID:PI74727392
+Review Date2024-11-01	
+Review Rating: 2	
+Review Text: janwknckwcjwj
+
+CustomerID: CI0014
+ProductID:PI47273180
+Review Date2024-05-15	
+Review Rating: 5	
+Review Text: wfiwhfichewuchoewq
+
+CustomerID: CI0012
+ProductID:PI74727392
+Review Date2024-03-13	
+Review Rating: 1	
+Review Text: wfiwhifhew
+
+CustomerID: CI0018
+ProductID:PI82328919
+Review Date2024-10-12	
+Review Rating: 5	
+Review Text: hjowjocwjs
+
+CustomerID: CI0019
+ProductID:PI42732989
+Review Date2024-12-06	
+Review Rating: 4	
+Review Text: iheiuwfowjfoeiw
