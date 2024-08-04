@@ -1,0 +1,9 @@
+Total number of reviews: 25 
+Number of valid reiews: 20 
+Number of invalid reiews: 5 
+Highest average ratings: 
+ ProductID
+PI22398298    5.0
+PI23729739    5.0
+PI26872238    5.0
+Name: Review Rating, dtype: float64
