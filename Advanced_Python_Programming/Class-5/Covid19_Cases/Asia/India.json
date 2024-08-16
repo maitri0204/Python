@@ -1,0 +1,6 @@
+{ "country": "India",
+"date": "2019-12-31",
+"confirmed_cases": { "total": 7000, "new": 30 },
+"deaths": { "total": 200, "new": 25 },
+"recovered": { "total": 3000, "new": 100 }
+}

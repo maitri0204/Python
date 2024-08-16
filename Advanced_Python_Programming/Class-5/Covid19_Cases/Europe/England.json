@@ -1,0 +1,6 @@
+{ "country": "England",
+"date": "2019-08-11",
+"confirmed_cases": { "total": 1900, "new": 50 },
+"deaths": { "total": 600, "new": 13 },
+"recovered": { "total": 350, "new": 21 }
+}

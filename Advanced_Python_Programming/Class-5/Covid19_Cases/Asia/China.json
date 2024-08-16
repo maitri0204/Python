@@ -1,0 +1,6 @@
+{ "country": "China",
+"date": "2019-05-01",
+"confirmed_cases": { "total": 9000, "new": 500 },
+"deaths": { "total": 600, "new": 30 },
+"recovered": { "total": 3000, "new": 2 }
+}
