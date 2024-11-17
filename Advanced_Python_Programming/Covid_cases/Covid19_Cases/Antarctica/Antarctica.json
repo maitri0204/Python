@@ -1,0 +1,6 @@
+{ "country": "Antarctica",
+"date": "2019-11-18",
+"confirmed_cases": { "total": 2000, "new": 25 },
+"deaths": { "total": 200, "new": 12 },
+"recovered": { "total": 500, "new": 10 }
+}

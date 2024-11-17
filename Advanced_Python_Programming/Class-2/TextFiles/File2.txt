@@ -1,6 +1,0 @@
-CustomerID	ProductID	Review Date	Review Rating	Review Text
-CI0017	PI74727392	2024-11-01	2	janwknckwcjwj
-CI0014	PI47273180	2024-05-15	5	wfiwhfichewuchoewq
-CI0012	PI74727392	2024-03-13	1	wfiwhifhew
-CI0018	PI82328919	2024-10-12	5	hjowjocwjs
-CI0019	PI42732989	2024-12-06	4	iheiuwfowjfoeiw

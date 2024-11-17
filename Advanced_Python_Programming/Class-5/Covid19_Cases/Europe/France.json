@@ -1,6 +1,0 @@
-{ "country": "France",
-"date": "2019-06-23",
-"confirmed_cases": { "total": 2000, "new": 40 },
-"deaths": { "total": 460, "new": 4 },
-"recovered": { "total": 607, "new": 73 }
-}

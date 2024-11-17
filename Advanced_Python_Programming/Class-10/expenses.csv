@@ -1,9 +1,6 @@
-Name,Date,Description,Amount
-Alice,2024-10-01,Groceries,150.75
-Bob,2024-10-01,Fuel,60
-Alice,2024-10-02,Electricity Bill,120
-Charlie,2024-10-03,Dining Out,85.5
-Bob,2024-10-03,Internet Bill,55
-Charlie,2024-10-04,Groceries,200
-Alice,2024-10-05,Gym Membership,50
-Bob,2024-10-05,Clothes,130.25
+Name,Date,Description,Amount,Category
+ABC,2024-12-10,DES1,100.0,groceries
+DEF,2024-03-15,DES2,200.0,utilities
+GHI,2024-04-04,DES3,300.0,groceries
+JKL,2024-05-05,DES4,200.0,groceries
+BDE,2024-12-31,DES5,500.0,utilities

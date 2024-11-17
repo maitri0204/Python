@@ -1,5 +1,0 @@
-2024-10-07 15:28:43,530 - INFO - Starting the main script execution...
-2024-10-07 15:28:46,342 - DEBUG - Attempting to read input file from: hciuweuc
-2024-10-07 15:28:46,345 - ERROR - FileNotFoundError: The file at hciuweuc does not exist.
-2024-10-07 15:28:46,381 - ERROR - Input file not found. Please provide a valid file path.
-2024-10-07 15:28:46,394 - INFO - Script execution finished.

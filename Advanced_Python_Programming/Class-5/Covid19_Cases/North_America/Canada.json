@@ -1,6 +1,0 @@
-{ "country": "Canada",
-"date": "2019-09-18",
-"confirmed_cases": { "total": 1000, "new": 50 },
-"deaths": { "total": 20, "new": 2 },
-"recovered": { "total": 800, "new": 30 }
-}

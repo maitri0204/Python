@@ -1,0 +1,6 @@
+{ "country": "USA",
+"date": "2019-06-24",
+"confirmed_cases": { "total": 5000, "new": 501 },
+"deaths": { "total": 400, "new": 45 },
+"recovered": { "total": 850, "new": 35 }
+}
