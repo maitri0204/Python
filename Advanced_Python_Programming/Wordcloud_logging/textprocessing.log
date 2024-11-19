@@ -1,5 +1,15 @@
-2024-10-07 15:28:43,530 - INFO - Starting the main script execution...
-2024-10-07 15:28:46,342 - DEBUG - Attempting to read input file from: hciuweuc
-2024-10-07 15:28:46,345 - ERROR - FileNotFoundError: The file at hciuweuc does not exist.
-2024-10-07 15:28:46,381 - ERROR - Input file not found. Please provide a valid file path.
-2024-10-07 15:28:46,394 - INFO - Script execution finished.
+2024-11-17 23:28:13,132 - INFO - Starting the main script execution...
+2024-11-17 23:28:26,321 - DEBUG - Attempting to read input file from: /Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Wordcloud_logging/test.txt
+2024-11-17 23:28:26,324 - INFO - Reading file content from /Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Wordcloud_logging/test.txt
+2024-11-17 23:28:26,336 - DEBUG - File read successfully: /Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Wordcloud_logging/test.txt
+2024-11-17 23:28:26,339 - DEBUG - Starting text processing...
+2024-11-17 23:28:26,342 - INFO - Word count: 91, Character frequencies: Counter({'e': 59, 't': 43, 's': 39, 'i': 38, 'n': 38, 'a': 29, 'o': 25, 'r': 24, 'l': 22, 'm': 19, 'p': 19, 'u': 17, 'd': 16, 'h': 14, 'y': 13, 'g': 11, 'c': 10, 'k': 7, 'f': 6, 'w': 6, 'b': 5, 'v': 5, 'x': 2})
+2024-11-17 23:28:26,348 - DEBUG - Text processing complete.
+2024-11-17 23:28:26,353 - DEBUG - Attempting to save output to /Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Wordcloud_logging/Output.txt
+2024-11-17 23:28:26,357 - INFO - Disk space available: 16135188480 bytes
+2024-11-17 23:28:26,365 - INFO - Results successfully saved to /Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Wordcloud_logging/Output.txt
+2024-11-17 23:28:26,367 - INFO - Processing complete! Results saved to /Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Wordcloud_logging/Output.txt
+2024-11-17 23:28:26,372 - DEBUG - Starting word cloud generation...
+2024-11-17 23:28:26,926 - ERROR - Error generating word cloud: [Errno 2] No such file or directory: '/Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Class-8/Data.png'
+2024-11-17 23:28:26,928 - ERROR - Unexpected error: [Errno 2] No such file or directory: '/Users/maitripatel/Desktop/Codes/Python/Advanced_Python_Programming/Class-8/Data.png'
+2024-11-17 23:28:26,933 - INFO - Script execution finished.
